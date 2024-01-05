@@ -1,0 +1,1 @@
+insert into tcedula values ('0101010101');

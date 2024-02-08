@@ -1,6 +1,6 @@
 # Proyecto Cedulas
 
-Este proyecto es un microservicio que utiliza Quarkus y sirve como práctica para generar y consultar cedulas válidas
+Este proyecto es un microservicio que utiliza el framework Quarkus como base y sirve como práctica para generar y consultar cedulas válidas para el Ecuador tomando como parámetro la provincia; así mismo se puede generar una o varias cédulas aleatorias.
 
 ## Ejecución en modo dev:
 

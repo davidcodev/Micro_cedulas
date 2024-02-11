@@ -20,7 +20,7 @@ La aplicación se puede empaquetar usando el siguiente comando:
 Esto genera un archvo `quarkus-run.jar` en el directorio `target/quarkus-app/`.
 Tomar en cuenta que no es un _über-jar_ ya que las dependecias se copian en el directorio `target/quarkus-app/lib/`.
 
-La aplicación será ejecutará como cualquier archivo _.jar_ por ejemplo:
+La aplicación se ejecutará como cualquier archivo _.jar_ por ejemplo:
 
 `java -jar target/quarkus-app/quarkus-run.jar`.
 
